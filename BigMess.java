@@ -3,7 +3,7 @@ import java.util.Random;
 class MegaClass1 {
     void useless1() {
         int x = new Random().nextInt(100);
-        // does literally nothing
+        // does no shit 
     }
     void useless2() {
         for (int i = 0; i < 10; i++) useless1();
